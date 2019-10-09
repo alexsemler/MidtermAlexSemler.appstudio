@@ -1,4 +1,4 @@
-/*
+
 Submit.onclick=function(){
     if (Number(incomeInput.value) >= 99999) 
             taxOutput.value = (`With your income of $${incomeInput.value}, you are in the tax bracket of 25%`) 
@@ -13,4 +13,4 @@ goAgain.onclick=function(){
   incomeInput.value = ""
   taxOutput.value = ""
 }
-*/
+

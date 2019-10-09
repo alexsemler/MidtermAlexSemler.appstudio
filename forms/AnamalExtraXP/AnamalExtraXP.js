@@ -1,4 +1,4 @@
-/*
+
 let anamals2 = ["dog", "cat", "horse", "mouse", "pig", "cow", "ferret", "lizard", "frog"]
 let lastAnamal = ""
 let choice2 = ""
@@ -12,4 +12,3 @@ for (i=0;i<2;i++) {
 
     alert(`The last animal is ${anamals2[lastAnimal]}.`)
 }
-*/
